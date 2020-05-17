@@ -17,3 +17,9 @@ This technique was first introduced by Gatys et al. in [A Neural Algorithm of Ar
 
 ### Bordeaux - Van Gogh
 
+<div align='center'>
+  <img src='content images/bordeaux.jpg' height="225px">
+  <img src='style images/vangogh.jpeg' height="225px">
+  <img src='NST Paintings/van_gogh2.png' height="225px">
+</div>
+
