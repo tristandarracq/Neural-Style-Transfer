@@ -7,5 +7,8 @@ This technique was first introduced by Gatys et al. in [A Neural Algorithm of Ar
 ## Examples
 # Bordeaux paintings
 
-![Bordeaux](/content images/bordeaux.jpg)
-Format: ![Alt Text](url)
+
+<div align='center'>
+  <img src='content images/bordeaux.jpg' height="225px">
+</div>
+
