@@ -34,7 +34,14 @@ This technique was first introduced by Gatys et al. in [A Neural Algorithm of Ar
   <img src='NST Paintings/monet_bdx.png' height="225px">
 </div>
 
-### Bordeaux - Dali  
+### Bordeaux - Dali  dali.jpg
+
+<div align='center'>
+  <img src='content images/bordeaux.jpg' height="225px">
+  <img src='style images/dali.jpg' height="225px">
+  <img src='NST Paintings/bdx_dali_stylized.png' height="225px">
+</div>
+
 ## Own picture
 
 <div align='center'>
