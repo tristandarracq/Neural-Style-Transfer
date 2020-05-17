@@ -7,10 +7,10 @@ This technique was first introduced by Gatys et al. in [A Neural Algorithm of Ar
 ## Examples
 # Bordeaux paintings
 
-
+Bordeaux - Afremov
 <div align='center'>
-  Bordeaux - Afremov
   <img src='content images/bordeaux.jpg' height="225px">
   <img src='style images/afremov.jpeg' height="225px">
+  <img src='NST Paintings/bdx_afremov_stylized.png' height="225px">
 </div>
 
