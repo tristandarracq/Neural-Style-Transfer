@@ -4,13 +4,10 @@
 
 This technique was first introduced by Gatys et al. in [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576). 
 
-# VGG19 Network Architecture
-
-
 # Examples
 ## Bordeaux paintings
 
-### Bordeaux - Afremov, 
+### Bordeaux - Afremov
 
 <div align='center'>
   <img src='content images/bordeaux.jpg' height="225px">
@@ -49,4 +46,3 @@ This technique was first introduced by Gatys et al. in [A Neural Algorithm of Ar
   <img src='style images/vangogh.jpeg' height="225px">
   <img src='NST Paintings/van_gogh (1).png' height="225px">
 </div>
-
