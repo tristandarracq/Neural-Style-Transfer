@@ -4,6 +4,10 @@
 
 This technique was first introduced by Gatys et al. in [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576). 
 
+A content image and a style image are input to a neural network. The goal is to generate a mixed image that has contours of the content image and texture, color pattern of the style image. How it works? 
+
+The loss function for the content image minimizes the difference of the features activated for the content image corresponding to the mixed image. Whereas the loss function for the style image minimizes the difference between so-called Gram-matrices between style image and the mixed image. This is done at one or more layers. The usage of the Gram matrix is it identifies which features are activated simultaneously at a given layer.
+
 # Examples
 ## Bordeaux paintings
 
@@ -31,7 +35,7 @@ This technique was first introduced by Gatys et al. in [A Neural Algorithm of Ar
   <img src='NST Paintings/monet_bdx.png' height="225px">
 </div>
 
-### Bordeaux - Dali  dali.jpg
+### Bordeaux - Dali
 
 <div align='center'>
   <img src='content images/bordeaux.jpg' height="225px">
